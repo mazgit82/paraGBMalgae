@@ -1,0 +1,9 @@
+Package: paraGBMalgae
+Type: Package
+Title: RDS Data containing validation results for gbm on algae bloom
+Version: 1.0
+Date: 2015-01-25
+Author: RAMRAM
+Maintainer: RAMRAM <ramram82@gmail.com>
+Description: RDS Data containing validation results for gbm on algae bloom
+License: GPL-3 
